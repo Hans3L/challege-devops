@@ -52,3 +52,13 @@ tales como docker, Nomad/Consul, CI/CD y Terraform.
   * hacer un script para validar que un servicio este activo
   * hacer un script para depurar imagenes docker
   * Hacer un script para obtener datos de Consul
+* Kubernetes
+  * Validar conocimientos en kubernetes deployments,services,ingress,hpa,etc.
+    * Crear los manfiestos necesarios segun criterio.
+    * Desplegar un servicio y mostrar la id del pod.
+    * Crear un ingress.
+    * Creacion de secretos y configmap que esto realize una inyeccion al pod y se haga la validacion de esto.
+    * Crear una politica de auto escalado con los siguientes párametros.
+     scale in : CPU utilization > 80%
+     scale out : CPU Utilization < 60%
+  
