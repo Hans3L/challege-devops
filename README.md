@@ -19,6 +19,7 @@ tales como docker, Nomad/Consul, CI/CD y Terraform.
   * CI/CD > pipeline
   * IaC > terraform
   * Scripting > scripts
+  * Kubernetes > manifiestos
 
 ## Tareas
 * Docker
