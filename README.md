@@ -7,7 +7,7 @@ tales como docker, Nomad/Consul, CI/CD y Terraform.
 
 ## Reglas
 
-* Se debe de enviar un agregar commit luego de clonar el repositorio.
+* Se debe de enviar un agregar commit luego de clonar el repositorio (Tryout begins...).
   - Solo se debe de agregar un archivo con extension ***.md**
   - El archivo debe de contener tus datos de contacto.
 * Luego de concluir cada tarea debes de agregar un commit.
