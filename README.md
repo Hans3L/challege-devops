@@ -63,6 +63,12 @@ tales como docker, Nomad/Consul, CI/CD y Terraform.
 * hacer un script para depurar imagenes docker
 * Hacer un script para obtener datos de Consul (KV: config/app)
 
+### Personal
+
+Autor: Hansel Ingaruca Rimac
+Phone: +51 994949540
+email: hansel.hir@gmail.com
+
 ### Kubernetes
 * Crear los manfiestos necesarios segun criterio, se puede usar helm
 * Desplegar un servicio y mostrar la id del pod.
